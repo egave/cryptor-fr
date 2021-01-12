@@ -2,17 +2,16 @@
 templateKey: index-page
 title: CryptOr.fr
 image: /img/bitcoin_gold.jpeg
-heading: Great coffee with a conscience
-subheading: Des infos et des dossiers sur les Crypto-monnaies et l'Or
+heading: Crypto-monnaies et OR
+subheading: Des dossiers et des infos sur les Crypto-monnaies et l'Or
 mainpitch:
   title: Pourquoi CryptOr ?
-  description: Parce qu'en ces temps de turbulences économiques et de rendements
-    proches de zéro, il devient impératif de réfléchir à la meilleure manière de
-    protéger son capital contre l'inflation, si on a la chance d'en avoir un !
-description: Kaldi is the ultimate spot for coffee lovers who want to learn
-  about their java’s origin and support the farmers that grew it. We take coffee
-  production, roasting and brewing seriously and we’re glad to pass that
-  knowledge to anyone.
+  description: Parce qu'en ces temps de turbulences économiques, il devient
+    impératif de réfléchir à la meilleure manière de protéger son capital !
+description: Si vous avez pléthore de sites qui vous parlent de l'Or ou du
+  Bitcoin, très peu vont à l'essentiel. CryptOr y consacre des dossiers ciblés
+  et réalise une veille informationnelle pour vous permettre de décider si oui
+  ou non cette classe d'actif est faite pour vous.
 intro:
   blurbs:
     - image: /img/coffee.png
