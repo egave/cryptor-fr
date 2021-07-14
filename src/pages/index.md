@@ -10,7 +10,7 @@ mainpitch:
     Parce qu'en ces temps de turbulences économiques, il devient impératif de
     réfléchir à la meilleure manière de protéger son capital !
 
-    Et dans cet objectif, l'Or comme les Crypto-monnaies présentent des caractéristiques très intéressantes.
+    Et dans cet objectif, l'Or comme les Crypto-monnaies présentent des caractéristiques très intéressantes
 description: Si vous avez pléthore de sites et de blogs qui vous parlent de l'Or
   ou du Bitcoin, très peu vont à l'essentiel. CryptOr y consacre des dossiers
   ciblés et réalise une veille informationnelle pour vous permettre de décider
