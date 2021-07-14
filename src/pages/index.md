@@ -18,7 +18,7 @@ description: Si vous avez pléthore de sites et de blogs qui vous parlent de l'O
   d'investissement.
 intro:
   blurbs:
-    - image: /img/coffee.png
+    - image: /img/gold-section.jpg
       text: |
         L'Or est le monnaie d'échange de référence depuis des millénaires.
     - image: /img/coffee-gear.png
