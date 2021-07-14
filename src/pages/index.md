@@ -21,7 +21,7 @@ intro:
     - image: /img/gold-section.jpg
       text: |
         L'Or est le monnaie d'échange de référence depuis des millénaires.
-    - image: /img/coffee-gear.png
+    - image: /img/bitcoin-section.jpg
       text: La 1ère Crypto-monnaie ou monnaie électronique a été créé à la suite de la
         crise économique des subprimes de 2008.
   heading: What we offer
