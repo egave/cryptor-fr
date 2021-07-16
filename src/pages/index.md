@@ -13,14 +13,21 @@ mainpitch:
     Et dans cet objectif, l'Or comme les Crypto-monnaies présentent des caractéristiques très intéressantes.
 description: S'il existe quantités de sites et de blogs qui vous parlent de l'Or
   ou du Bitcoin, très peu vont à l'essentiel. CryptOr y consacre des dossiers
-  ciblés et réalise une veille informationnelle pour vous permettre de décider
-  la classe d'actif qui vous convient le mieux en foncion de vos objectifs
-  d'investissement.
+  techniques ciblés et réalise une veille informationnelle pour vous permettre
+  de décider la classe d'actif qui vous convient le mieux en fonction de vos
+  objectifs d'investissement. Et notre lettre d'investissement vous indique
+  concrètement comment passer à l'acte avec les acteurs du marché les plus sûrs
+  et les plus fiables.
 intro:
   blurbs:
     - image: /img/gold-section.jpg
-      text: |
-        L'Or est le monnaie d'échange de référence depuis des millénaires.
+      text: L’Or est un métal précieux très recherché depuis la nuit des temps.
+        Auparavant utilisé comme monnaie, il est aujourd'hui utilisé dans les
+        secteurs de la joaillerie (confection de bijoux), de l'industrie
+        (électronique, décoration, soins dentaires), comme réserves monétaires
+        des banques centrales et comme placements en or (pièces, lingots,
+        médailles). Depuis 1944, l'or est une valeur refuge, qui suscite
+        l'attrait des épargnants quand une crise ou période troublée est en vue.
     - image: /img/bitcoin-section.jpg
       text: La 1ère Crypto-monnaie ou monnaie électronique a été créé à la suite de la
         crise économique des subprimes de 2008.
