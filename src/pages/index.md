@@ -29,9 +29,13 @@ intro:
         médailles). Depuis 1944, l'or est une valeur refuge, qui suscite
         l'attrait des épargnants quand une crise ou période troublée est en vue.
     - image: /img/bitcoin-section.jpg
-      text: La 1ère Crypto-monnaie ou monnaie électronique a été créé à la suite de la
-        crise économique des subprimes de 2008. Il s'agit du Bitcoin créé le 3
-        janvier 2009.
+      text: >-
+        La 1ère Crypto-monnaie ou monnaie électronique a été créée par une
+        personne, ou un groupe de personnes, sous le pseudonyme de Satoshi
+        Nakamoto. Il s'agit du Bitcoin lancé le 3 janvier 2009 comme une réponse
+        à la crise économique des subprimes de 2008.
+
+        Depuis, le cours du Bitcoin est passé d'une valorisation de quelques centimes à plus de 30.000$ et des milliers de "Cryto-actifs" (dénomination officielle du G20 pour désigner des actifs numériques virtuels n'ayant pas cours légal) ont vu le jour.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
