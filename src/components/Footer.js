@@ -26,20 +26,20 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link to="/" className="navbar-item">
-                        Home
+                        Accueil
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/about">
-                        About
+                        A propos
                       </Link>
                     </li>
                     <li>
                       <Link className="navbar-item" to="/products">
-                        Products
+                        Lettre CryptOr
                       </Link>
                     </li>
-                    <li>
+                    {/* <li>
                       <Link className="navbar-item" to="/contact/examples">
                         Form Examples
                       </Link>
@@ -53,7 +53,7 @@ const Footer = class extends React.Component {
                       >
                         Admin
                       </a>
-                    </li>
+                    </li> */}
                   </ul>
                 </section>
               </div>
@@ -62,7 +62,7 @@ const Footer = class extends React.Component {
                   <ul className="menu-list">
                     <li>
                       <Link className="navbar-item" to="/blog">
-                        Latest Stories
+                        Derniers Articles
                       </Link>
                     </li>
                     <li>
@@ -96,13 +96,13 @@ const Footer = class extends React.Component {
                     style={{ width: '1em', height: '1em' }}
                   />
                 </a>
-                <a title="vimeo" href="https://vimeo.com">
+                {/* <a title="vimeo" href="https://vimeo.com">
                   <img
                     src={vimeo}
                     alt="Vimeo"
                     style={{ width: '1em', height: '1em' }}
                   />
-                </a>
+                </a> */}
               </div>
             </div>
           </div>

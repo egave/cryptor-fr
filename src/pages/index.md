@@ -1,7 +1,7 @@
 ---
 templateKey: index-page
 title: CryptOr.fr
-image: /img/bitcoin_gold.jpeg
+image: /img/bitcoin-gold.jpeg
 heading: Crypto-monnaies et OR
 subheading: Des dossiers et des infos sur les Crypto-monnaies et l'Or
 mainpitch:
