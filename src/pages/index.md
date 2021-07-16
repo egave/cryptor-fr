@@ -30,7 +30,8 @@ intro:
         l'attrait des épargnants quand une crise ou période troublée est en vue.
     - image: /img/bitcoin-section.jpg
       text: La 1ère Crypto-monnaie ou monnaie électronique a été créé à la suite de la
-        crise économique des subprimes de 2008.
+        crise économique des subprimes de 2008. Il s'agit du Bitcoin créé le 3
+        janvier 2009.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
