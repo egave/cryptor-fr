@@ -1,50 +1,41 @@
 ---
 templateKey: index-page
-title: Great coffee with a conscience
-image: /img/home-jumbotron.jpg
-heading: Great coffee with a conscience
-subheading: Support sustainable farming while enjoying a cup
+title: CryptOr.fr
+image: /img/bitcoin_gold.jpeg
+heading: Crypto-monnaies et OR
+subheading: Des dossiers et des infos sur les Crypto-monnaies et l'Or
 mainpitch:
-  title: Why Kaldi
-  description: >
-    Kaldi is the coffee store for everyone who believes that great coffee
-    shouldn't just taste good, it should do good too. We source all of our beans
-    directly from small scale sustainable farmers and make sure part of the
-    profits are reinvested in their communities.
-description: >-
-  Kaldi is the ultimate spot for coffee lovers who want to learn about their
-  java’s origin and support the farmers that grew it. We take coffee production,
-  roasting and brewing seriously and we’re glad to pass that knowledge to
-  anyone.
+  title: Pourquoi CryptOr ?
+  description: >-
+    Parce qu'en ces temps de turbulences économiques, il devient impératif de
+    réfléchir à la meilleure manière de protéger son capital !
+
+    Et dans cet objectif, l'Or comme les Crypto-monnaies présentent des caractéristiques très intéressantes.
+description: S'il existe quantités de sites et de blogs qui vous parlent de l'Or
+  ou du Bitcoin, très peu vont à l'essentiel. CryptOr y consacre des dossiers
+  techniques ciblés et réalise une veille informationnelle pour vous permettre
+  de décider la classe d'actif qui vous convient le mieux en fonction de vos
+  objectifs d'investissement. Et notre lettre d'investissement vous indique
+  concrètement comment passer à l'acte avec les acteurs du marché les plus sûrs
+  et les plus fiables.
 intro:
   blurbs:
-    - image: /img/coffee.png
-      text: >
-        We sell green and roasted coffee beans that are sourced directly from
-        independent farmers and farm cooperatives. We’re proud to offer a
-        variety of coffee beans grown with great care for the environment and
-        local communities. Check our post or contact us directly for current
-        availability.
-    - image: /img/coffee-gear.png
-      text: >
-        We offer a small, but carefully curated selection of brewing gear and
-        tools for every taste and experience level. No matter if you roast your
-        own beans or just bought your first french press, you’ll find a gadget
-        to fall in love with in our shop.
-    - image: /img/tutorials.png
-      text: >
-        Love a great cup of coffee, but never knew how to make one? Bought a
-        fancy new Chemex but have no clue how to use it? Don't worry, we’re here
-        to help. You can schedule a custom 1-on-1 consultation with our baristas
-        to learn anything you want to know about coffee roasting and brewing.
-        Email us or call the store for details.
-    - image: /img/meeting-space.png
-      text: >
-        We believe that good coffee has the power to bring people together.
-        That’s why we decided to turn a corner of our shop into a cozy meeting
-        space where you can hang out with fellow coffee lovers and learn about
-        coffee making techniques. All of the artwork on display there is for
-        sale. The full price you pay goes to the artist.
+    - image: /img/gold-section.jpg
+      text: L’Or est un métal précieux très recherché depuis la nuit des temps.
+        Auparavant utilisé comme monnaie, il est aujourd'hui utilisé dans les
+        secteurs de la joaillerie (confection de bijoux), de l'industrie
+        (électronique, décoration, soins dentaires), comme réserves monétaires
+        des banques centrales et comme placements en or (pièces, lingots,
+        médailles). Depuis 1944, l'or est une valeur refuge, qui suscite
+        l'attrait des épargnants quand une crise ou période troublée est en vue.
+    - image: /img/bitcoin-section.jpg
+      text: >-
+        La 1ère Crypto-monnaie ou monnaie électronique a été créée par une
+        personne, ou un groupe de personnes, sous le pseudonyme de Satoshi
+        Nakamoto. Il s'agit du Bitcoin lancé le 3 janvier 2009 comme une réponse
+        à la crise économique des subprimes de 2008.
+
+        Depuis, le cours du Bitcoin est passé d'une valorisation de quelques centimes à plus de 30.000$ et des milliers de "Cryto-actifs" (dénomination officielle du G20 pour désigner des actifs numériques virtuels n'ayant pas cours légal) ont vu le jour.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
