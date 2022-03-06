@@ -1,10 +1,11 @@
 ---
 templateKey: blog-post
-title: Imposition de la détention d'Or physique
+title: Quelle est la fiscalité de l'or ?
 date: 2021-07-16T15:04:10.000Z
+description: Cet article s'attache à comprendre l'imposition relative à l'achat
+  / revente d'Or.
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: Cet article s'attache à comprendre l'imposition relative à l'achat / revente d'Or.
 tags:
   - flavor
   - tasting
