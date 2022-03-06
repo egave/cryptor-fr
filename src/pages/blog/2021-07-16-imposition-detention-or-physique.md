@@ -1,31 +1,34 @@
 ---
 templateKey: blog-post
-title: Imposition de la détention d'Or physique
+title: Quelle est la fiscalité de l'or physique sur la vente ou l'achat ?
 date: 2021-07-16T15:04:10.000Z
+description: Cet article s'attache à comprendre à quelle sauce vous allez être
+  mangé par Bercy lorsque vous achetez ou revendez de l'Or.
 featuredpost: false
-featuredimage: /img/flavor_wheel.jpg
-description: Cet article s'attache à comprendre l'imposition relative à l'achat / revente d'Or.
+featuredimage: /img/fiscalite-or.jpg
 tags:
-  - flavor
-  - tasting
+  - imposition
+  - taxe
+  - TVA
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Imposition des transactions sur l'Or](/img/fiscalite-or.jpg)
 
-Imposition relative à l'Or.
+## L'or d'investissement
 
-## What the updates mean to you
+### 1. A l'achat et pendant sa détention
 
-The Specialty Coffee Association of America (SCAA), founded in 1982, is a non-profit trade organization for the specialty coffee industry. With members located in more than 40 countries, SCAA represents every segment of the specialty coffee industry, including:
+Aucune taxe **à l’achat** n’est applicable pour l’or d’investissement, il est **exonéré de taxe sur la valeur ajoutée**. L’or est exclu de l’impôt sur la fortune immobilière (IFI), il n’est pas imposable pendant sa détention.
 
-* producers
-* roasters
-* importers/exporters
-* retailers
-* manufacturers
-* baristas
+> ### Sont exonérées de la taxe sur la valeur ajoutée
+>
+> * Les livraisons, les acquisitions intracommunautaires et les importations d'or d'investissement, y compris lorsque l'or d'investissement est négocié sur des comptes or ou sous la forme de certificats ou de contrats qui confèrent à l'acquéreur un droit de propriété ou de créance sur cet or;
+> * Les prestations de services rendues par les assujettis qui interviennent au nom et pour le compte d'autrui dans les opérations visées dans le point ci-dessus.
+>
+> ### Est considéré comme or d'investissement
+>
+> * L'or sous la forme d'une barre, d'un lingot ou d'une plaquette d'un poids supérieur à un gramme et dont la pureté est égale ou supérieure à 995 millièmes, représenté ou non par des titres;
+> * Les pièces d'une pureté égale ou supérieure à 900 millièmes qui ont été frappées après 1800, ont ou ont eu cours légal dans leur pays d'origine et dont le prix de vente n'excède pas de plus de 80 % la valeur de l'or qu'elles contiennent.
 
-For over 30 years, SCAA has been dedicated to creating a vibrant specialty coffee community by recognizing, developing and promoting specialty coffee. SCAA sets and maintains quality standards for the industry, conducts market research, and provides education, training, resources, and business services for its members.
+##### Liens LegiFrance :
 
-Coffee cupping, or coffee tasting, is the practice of observing the tastes and aromas of brewed coffee. It is a professional practice but can be done informally by anyone or by professionals known as "Q Graders". A standard coffee cupping procedure involves deeply sniffing the coffee, then loudly slurping the coffee so it spreads to the back of the tongue.
-
-The coffee taster attempts to measure aspects of the coffee's taste, specifically the body (the texture or mouthfeel, such as oiliness), sweetness, acidity (a sharp and tangy feeling, like when biting into an orange), flavour (the characters in the cup), and aftertaste. Since coffee beans embody telltale flavours from the region where they were grown, cuppers may attempt to identify the coffee's origin.
+* <https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006304536/>
