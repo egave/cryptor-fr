@@ -1,6 +1,6 @@
 ---
 templateKey: blog-post
-title: Quelle est la fiscalité des trasactions sur l'or d'investissement ?
+title: Fiscalité des transactions sur l'or d'investissement
 date: 2022-03-06T10:10:59.158Z
 description: Cet article s'attache à comprendre à quelle sauce vous allez être
   mangé par Bercy lorsque vous achetez ou revendez de l'Or.
@@ -59,4 +59,4 @@ Sur option, lorsque cela lui est plus favorable que la taxe forfaitaire, le vend
 
 * **[Définition de l'or d'investissement](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006304536/2000-03-31)**
 * La nature de la **taxe forfaitaire** est définie par **[l’article 150 VI du code général des impôts](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043140066/2020-11-27/)**, tandis que les modalités techniques sont détaillées au Bulletin Officiel Des Impôts **[BOI-RPPM-PVBMC-20-10](https://bofip.impots.gouv.fr/bofip/4151-PGP.html/identifiant=BOI-RPPM-PVBMC-20-10-20181231)**
-* L'option de la taxation au régime de la plus-value est prévue par **[l’article 150 VL du CGI](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028429020/)**, tandis que les modalités techniques sont détaillées dans les deux notes des services fiscaux publiée au Bulletin Officiel des Impôts (**[BOI-RPPM-PVBMC-20-20](https://bofip.impots.gouv.fr/bofip/4161-PGP.html/identifiant=BOI-RPPM-PVBMC-20-20-20140401)**, et **[BOI-RPPM-PVBMC-10](https://bofip.impots.gouv.fr/bofip/3788-PGP.html/identifiant=BOI-RPPM-PVBMC-10-20140401)** datées d’avril 2014)
+* L'option de la **taxation au régime de la plus-value** est prévue par **[l’article 150 VL du CGI](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028429020/)**, tandis que les modalités techniques sont détaillées dans les deux notes des services fiscaux publiée au Bulletin Officiel des Impôts (**[BOI-RPPM-PVBMC-20-20](https://bofip.impots.gouv.fr/bofip/4161-PGP.html/identifiant=BOI-RPPM-PVBMC-20-20-20140401)**, et **[BOI-RPPM-PVBMC-10](https://bofip.impots.gouv.fr/bofip/3788-PGP.html/identifiant=BOI-RPPM-PVBMC-10-20140401)** datées d’avril 2014)
