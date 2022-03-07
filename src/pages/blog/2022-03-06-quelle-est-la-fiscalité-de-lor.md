@@ -34,7 +34,7 @@ Les particuliers ont le choix entre la **taxe forfaitaire** et le **régime de l
 > #### Taxe forfaitaire
 >
 > La taxe forfaitaire s'élève à 11 % du montant total de la transaction, décomposés comme suit: 10,5 % de Taxe sur les Métaux Précieux (TMP) et 0,5 % au titre de la Contribution au Remboursement de la Dette Sociale (CRDS). L'éventuelle plus-value ne rentre donc pas en compte dans le calcul de l'impôt.
->
+
 > #### Régime de la plus-value
 >
 > La taxation au régime de la plus-value porte sur la différence entre le prix de vente et le prix d'achat. Si celle-ci est nulle ou négative, vous n'avez rien à payer. Si elle est positive, la taxe s'élève à 36,2 %, décomposés comme suit: 19 % d'impôt sur la plus-value et 17,2 % de prélèvements sociaux.
@@ -46,7 +46,7 @@ Les particuliers ont le choix entre la **taxe forfaitaire** et le **régime de l
 > * Vous pouvez justifier de la date et du prix d'acquisition de votre or (conservez vos factures).
 > * Le vendeur et l'acheteur sont la même personne (les factures doivent être nominatives).
 > * Les pièces ou lingots vendus sont ceux qui avaient été achetés (les lingots disposent d'un numéro permettant de les identifier. Conservez les pièces dans leur film scellé, facture incluse).
->
+
 > #### N'oubliez pas de déclarer vos ventes d'or physique
 >
 > Lorsque vous choisissez la taxe forfaitaire de 11 %, vous devez renseigner puis déposer le [formulaire 2091](https://www.impots.gouv.fr/formulaire/2091-sd/taxe-forfaitaire-sur-les-cessions-ou-exportations-de-metaux-precieux) à votre centre des impôts dans le mois suivant la vente d'or. A défaut, vous vous exposez au paiement d'une amende fiscale. 
