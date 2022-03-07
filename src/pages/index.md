@@ -13,11 +13,11 @@ mainpitch:
     Et dans cet objectif, l'Or comme les Crypto-monnaies présentent des caractéristiques très intéressantes.
 description: S'il existe quantités de sites et de blogs qui vous parlent de l'Or
   ou du Bitcoin, très peu vont à l'essentiel. CryptOr y consacre des dossiers
-  techniques ciblés et réalise une veille informationnelle pour vous permettre
-  de décider la classe d'actif qui vous convient le mieux en fonction de vos
-  objectifs d'investissement. Et notre lettre d'investissement vous indique
-  concrètement comment passer à l'acte avec les acteurs du marché les plus sûrs
-  et les plus fiables.
+  ciblés et réalise une veille informationnelle pour vous permettre de décider
+  la classe d'actif qui vous convient le mieux en fonction de vos objectifs
+  d'investissement. Et notre lettre d'investissement vous indique concrètement
+  comment passer à l'acte avec les acteurs du marché les plus reconnus et les
+  plus avantageux.
 intro:
   blurbs:
     - image: /img/gold-section.jpg
@@ -27,7 +27,8 @@ intro:
         (électronique, décoration, soins dentaires), comme réserves monétaires
         des banques centrales et comme placements en or (pièces, lingots,
         médailles). Depuis 1944, l'or est une valeur refuge, qui suscite
-        l'attrait des épargnants quand une crise ou période troublée est en vue.
+        l'attrait des épargnants quand une crise ou période troublée est en vue,
+        ce qui se vérifie aujourd'hui avec la crise en Ukraine.
     - image: /img/bitcoin-section.jpg
       text: >-
         La 1ère Crypto-monnaie ou monnaie électronique a été créée par une
@@ -35,7 +36,7 @@ intro:
         Nakamoto. Il s'agit du Bitcoin lancé le 3 janvier 2009 comme une réponse
         à la crise économique des subprimes de 2008.
 
-        Depuis, le cours du Bitcoin est passé d'une valorisation de quelques centimes à plus de 30.000$ et des milliers de "Cryto-actifs" (dénomination officielle du G20 pour désigner des actifs numériques virtuels n'ayant pas cours légal) ont vu le jour.
+        Depuis, le cours du Bitcoin est passé d'une valorisation de quelques centimes à plus de 40.000$ et des milliers de "Cryto-actifs" (dénomination officielle du G20 pour désigner des actifs numériques virtuels n'ayant pas cours légal) ont vu le jour.
   heading: What we offer
   description: >
     Kaldi is the ultimate spot for coffee lovers who want to learn about their
