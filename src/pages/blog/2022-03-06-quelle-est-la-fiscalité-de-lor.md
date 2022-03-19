@@ -5,7 +5,7 @@ date: 2022-03-06T10:10:59.158Z
 description: Cet article s'attache à comprendre à quelle sauce vous allez être
   mangé par Bercy lorsque vous achetez ou revendez de l'Or d'investissement.
 featuredpost: true
-featuredimage: /img/fiscalite-or.jpg
+featuredimage: /img/fiscalite-or-resized.jpg
 tags:
   - imposition
   - impôts
