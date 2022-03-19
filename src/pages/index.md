@@ -7,8 +7,9 @@ subheading: Des dossiers et des infos sur les Crypto-monnaies et l'Or
 mainpitch:
   title: Pourquoi CryptOr ?
   description: >-
-    Parce qu'en ces temps de turbulences économiques, il devient impératif de
-    réfléchir à la meilleure manière de protéger son capital !
+    Parce qu'en ces temps de turbulences géo-politiques et économiques, il
+    devient impératif de réfléchir à la meilleure manière de protéger son
+    capital !
 
     Et dans cet objectif, l'Or comme les Crypto-monnaies présentent des caractéristiques très intéressantes.
 description: S'il existe quantités de sites et de blogs qui vous parlent de l'Or
