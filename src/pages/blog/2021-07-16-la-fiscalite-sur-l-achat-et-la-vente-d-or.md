@@ -1,17 +1,25 @@
 ---
 templateKey: blog-post
-title: Imposition de la détention d'Or physique
+title: La fiscalité sur l'achat et la vente d'or
 date: 2021-07-16T15:04:10.000Z
 featuredpost: false
 featuredimage: /img/flavor_wheel.jpg
-description: Cet article s'attache à comprendre l'imposition relative à l'achat / revente d'Or.
+description: Cet article vous explique la fiscalité sur l'achat, la détention et la revente d'Or pour un contribuable résident en France.
 tags:
-  - flavor
-  - tasting
+  - fiscalité 
+  - taxation
+  - plus-value
 ---
-![flavor wheel](/img/flavor_wheel.jpg)
+![Fiscalité de l'Or](/img/gold-fiscality.jpg)
 
-Imposition relative à l'Or.
+Les informations contenues dans cet article sont également valables pour le métal Argent.
+Première bonne nouvelle: depuis le 1er janvier 2018, l'or n'est plus soumis à l'ISF (Impôt Sur la Fortune).
+
+Cependant, les opérations concernant les métaux précieux ne sont pas exempts d'impôts pour autant.
+
+
+La législation française distingue l’Or et l’Argent d’investissement des autres formes d’Or et d’Argent physique (bijoux, objets d'art, de collection ou d'antiquité).
+Aucune taxe n'est due sur vos achats d'or. La taxation se déclenche à la revente. Pour l'or physique, le régime de la plus-value est souvent intéressant, si vous pouvez y prétendre. L'or papier est soumis par défaut à la taxation de 30 % (PFU) sur la plus-value réalisée.
 
 ## What the updates mean to you
 
